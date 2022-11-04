@@ -1,0 +1,16 @@
+body{
+    margin:0% auto;
+    color: #212529;
+    position:relative;
+    width:100%;
+    text-align:center;
+    }
+    h1, span{
+        text-align:center;
+        margin:0 auto;
+    }
+    .addform{
+        left: 50%;
+        margin-top: 10%;
+        justify-content: center;
+    }
